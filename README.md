@@ -1,4 +1,4 @@
-# ryan2135IC11T-ReportGeneratorII
+# ReportGeneratorII
 
 1. Implement the UML design found on Moodle starting with HourlySummaryReport.
 2. The constructor for HourlySummaryReport accepts an istream reference. If the file is successfully opened, fill the vector with the employees found in the file. Remember that employees are of one of two forms:
